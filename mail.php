@@ -1,6 +1,6 @@
 <?php
 
-$recepient = "your@mail.ru";
+$recepient = "https://formspree.io/f/mvolddko";
 $siteName = "Ajax-форма";
 
 $name = trim($_POST["name"]);
